@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Kaif Kutchwala - Python Projects
 
-I'm glad you are here. I plan to talk about ...
+This is an open-to-all collection of the projects I have undertaken. Feel free to use these as references or for the purpose they are made to serve!
